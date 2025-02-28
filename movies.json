@@ -1,0 +1,72 @@
+[
+    {
+          "title": "National Lampoon's Christmas Vacation",
+          "iscore": 7.5,
+          "rating": "PG-13",
+          "runtime": 97,
+          "released": [1989, 12, 1],
+          "country": "USA",
+          "posters": ["img/Christmas Vacation.jpg", "img/Christmas Vacation2.jpg", "img/Christmas Vacation3.jpg"],
+          "imdb": "https://www.imdb.com/title/tt0097958/?ref_=nv_sr_srsg_5_tt_8_nm_0_in_0_q_national%2520lampoons%2520chri",
+          "website": "https://www.facebook.com/ShawshankRedemptionFilm",
+          "likes": 1021,
+          "dislikes": 122,
+          "posterindex": 0
+    },
+    {
+          "title": "National Lampoons Vacation",
+          "iscore": 7.3,
+          "rating": "PG-13",
+          "runtime": 98,
+          "released": [1983, 7, 29],
+          "country": "USA",
+          "posters": ["img/Vacation.jpg", "img/Vacation2.jpg", "img/Vacation3.jpg"],
+          "imdb": "https://www.imdb.com/title/tt0085995/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_national%2520lampoo",
+          "website": "https://www.facebook.com/thegodfather",
+          "likes": 928,
+          "dislikes": 109,
+          "posterindex": 0
+    },
+    {
+          "title": "Winnie The Pooh Blood and Honey",
+          "iscore": 2.9,
+          "rating": "R",
+          "runtime": 84,
+          "released": [2023, 1, 24],
+          "country": "USA",
+          "posters": ["img/winnie3.jpg", "img/winnie2.jpg"],
+          "imdb": "https://www.imdb.com/title/tt19623240/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_winnie%2520the%2520pooh",
+          "website": "https://www.facebook.com/thegodfather",
+          "likes": 855,
+          "dislikes": 99,
+          "posterindex": 0
+    },
+    {
+          "title": "The Emoji Movie",
+          "iscore": 3.4,
+          "rating": "PG",
+          "runtime": 96,
+          "released": [2017, 8, 4],
+          "country": "USA",
+          "posters": ["img/emoji1.jpg", "img/emoji2.jpg"],
+          "imdb": "https://www.imdb.com/title/tt4877122/?ref_=fn_all_ttl_1",
+          "website": "http://www.42entertainment.com/work/whysoserious",
+          "likes": 828,
+          "dislikes": 127,
+          "posterindex": 0
+    },
+    {
+          "title": "Cloudy With a Chance of Meatballs",
+          "iscore": 6.9,
+          "rating": "PG",
+          "runtime": 90,
+          "released": [2009, 9, 18],
+          "country": "USA",
+          "posters": ["img/cloudy1.jpg"],
+          "imdb": "https://www.imdb.com/title/tt0844471/?ref_=nv_sr_srsg_0_tt_5_nm_3_in_0_q_cloudy%2520",
+          "website": "https://www.uphe.com/schindlers-list",
+          "likes": 812,
+          "dislikes": 101,
+          "posterindex": 0
+    }
+]
